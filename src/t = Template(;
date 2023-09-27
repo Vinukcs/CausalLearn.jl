@@ -1,0 +1,9 @@
+t = Template(;
+           user="vinukcs",
+           authors=["Vinu Sooriyaarachchi"],
+           plugins=[
+               License(name="MIT"),
+               Git(),
+               GitHubActions(),
+           ],
+       )
