@@ -2,5 +2,5 @@
 
 [![Build Status](https://github.com/vinukcs/CausalLearn.jl/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/vinukcs/CausalLearn.jl/actions/workflows/CI.yml?query=branch%3Amain)
 
-## Julia Wrapper for causal-learn
+## A Julia wrapper for some of the functionalities of the Python package causal-learn.
 
